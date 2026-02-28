@@ -8,7 +8,6 @@ output_prefix="extra_JK"
 # start_number
 count=1
 
-
 output_file="${output_prefix}.${count}.sdf"
 
 while IFS= read -r line
