@@ -1,5 +1,4 @@
 #!/bin/bash
-
 in_f="$1"
 mol_num=1
 keyword="@<TRIPOS>MOLECULE"
