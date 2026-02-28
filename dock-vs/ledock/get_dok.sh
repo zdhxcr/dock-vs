@@ -16,4 +16,3 @@ sort -n "$tmpfile" | awk '{print $2, $1}' >> "$output"
 
 rm "$tmpfile"
 
-
