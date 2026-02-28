@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import re
 
 input_file = "result.txt"
