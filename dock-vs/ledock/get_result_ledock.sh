@@ -13,3 +13,4 @@ for dir in ligand-*/; do
 done
 
 echo "复制完成！所有ligand-*/文件夹中的dok文件已复制到result文件夹"
+
