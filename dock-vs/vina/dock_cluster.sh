@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-
 path=/DATA/yxzhang/dock/moleculars/fda/pdbqt
 mkdir -p dock_info
 mkdir -p result-pdbqt
