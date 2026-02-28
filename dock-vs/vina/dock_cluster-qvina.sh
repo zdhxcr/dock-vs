@@ -1,6 +1,5 @@
 #!/bin/sh
 #
-
 path=/home/yxzhang/yxzhang/dock/dock-5/8tzx/p1p2-l/qvina/ligand
 mkdir -p dock_info
 mkdir -p result-pdbqt
