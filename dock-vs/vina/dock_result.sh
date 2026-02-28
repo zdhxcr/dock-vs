@@ -6,4 +6,3 @@ echo " $i " >> result.txt
 echo "$result" | tr ' ' '\n' >> result.txt
 done
 
-
