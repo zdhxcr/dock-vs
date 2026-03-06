@@ -2,7 +2,7 @@ import pyrosetta
 from pyrosetta import *
 
 # ================= 配置区 =================
-# 必须使用和另一个程序一模一样的 PDB 文件！
+
 INPUT_PDB = " 6pai-clear.pdb"   
 # ==========================================
 
